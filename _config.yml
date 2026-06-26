@@ -8,7 +8,7 @@ subtitle: '个人博客'
 description: '记录软件工程学习、科研探索与技术实践的个人博客，分享编程笔记、论文阅读、数据分析、机器学习以及成长思考。'
 keywords: 软件工程, 个人博客, 技术博客, 编程学习, Python, Java, 数据分析, 机器学习, 机器学习实践, 人工智能, 科研记录, 论文阅读, 算法学习, GitHub Pages, 学习笔记
 author: Jianjun Chen
-language: zh
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
